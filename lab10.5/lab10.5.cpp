@@ -16,5 +16,5 @@ int main()
     cout << "P = " << P << endl;
     system("pause>void");
     return 0;
-
+        //Внесла зміни
 }
